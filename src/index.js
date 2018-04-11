@@ -35,8 +35,6 @@ function populatePage(){
     cell.innerText = data.cell
     dob.innerText = data.dob
     pic.src = data.picture.large
-
-
   }
 }
 });
